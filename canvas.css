@@ -67,7 +67,7 @@ body .btn-primary:hover{border-color:whitesmoke;color: black;}
 .bg span i{color: black;}
 .bg .search{border-color: black;}
 
-.img-slider{background:url(../img/i.jpg)
+.img-slider{background:url(img/i.jpg)
     
   no-repeat  top center ; 
   background-size: cover;
